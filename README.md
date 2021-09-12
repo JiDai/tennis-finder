@@ -14,9 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Features
 
-- [] Map with tennis court markers 
-- [] A marker indicates the number indoor and outdoor courts
-- [] Add Metro lines
-- [] Searchfield to search tennis court by name
-- [] Filters to filter by indoor, outdoor, ...
-- [] Possible : get availablity of courts
+- [ ] Map with tennis court markers 
+
